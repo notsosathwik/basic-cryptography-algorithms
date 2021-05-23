@@ -59,7 +59,7 @@ public class ElGamal {
                     int pow_e2 = (int) Math.pow(e2, lowRand);
                     int c1 = pow_e1 % p;
                     int c2 = (pow_e2 * plain) % p;
-                    System.out.println("Generated random integer R = " + lowRand);
+                    System.out.println("Random integer R = " + lowRand);
                     System.out.println("Cipher (c1,c2) = (" + c1 + "," + c2 + ")");
                 }
             }
