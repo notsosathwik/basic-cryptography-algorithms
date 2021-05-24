@@ -1,7 +1,7 @@
 # basic-cryptography-algorithms
 This repo consists of a few basic cryptography algorithms with their JAVA implementations to encrypt and decrypt messages.
 
-List of Algorithms:
+List of Ciphers:
 1. Affine Cipher
 2. Auto Key Cipher
 3. Caesar Cipher
