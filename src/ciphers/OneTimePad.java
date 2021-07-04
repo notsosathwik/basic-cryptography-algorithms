@@ -10,7 +10,7 @@ public class OneTimePad {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello..! This program implements " +
-                "One-time pad Cipher.\nKey is randomly generated every time you input a plaintext.");
+                "One-time pad Cipher.\nEvery time you input a plaintext, a key of the same size is randomly generated.");
         String text;
             System.out.println("Enter the plaintext: ");
             text=sc.next();
