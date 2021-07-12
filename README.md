@@ -1,5 +1,5 @@
 # basic-cryptography-algorithms
-This repo consists of a few basic cryptography algorithms with their JAVA implementations to encrypt and decrypt messages.
+This repo consists of a few basic cryptography algorithms with their JAVA implementations to encrypt and decrypt text messages.
 
 List of Ciphers:
 1. Affine Cipher
